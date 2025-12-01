@@ -207,6 +207,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 **DeepSeeker Team** - KUEC Robothon 2025
+Yuvan Whabi
+Simreen Siraj Shehzadi
+Hishaam Abdul Razik
+Osama Tariq Ahmed
+Abd AlRahman
+Mohammed Fizal
+Harinath Ranjith
 
 ---
 
