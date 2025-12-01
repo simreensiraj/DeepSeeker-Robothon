@@ -224,9 +224,3 @@ Harinath Ranjith
 - The underwater robotics research community
 
 ---
-
-<div align="center">
-
-**Built with ❤️ for KUEC Robothon 2025**
-
-</div>
